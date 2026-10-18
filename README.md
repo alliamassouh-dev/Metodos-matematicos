@@ -8,6 +8,8 @@ Sistematização da disciplina de Análise de Sinais: aproximamos uma onda quadr
 
 **Abrir no Colab:** https://colab.research.google.com/drive/1B--4VwX_5f6NL-wLWstyi502upRMFZ_Q?usp=sharing
 
+**Link do vídeo:** https://youtu.be/-_4JyI05CYI?si=ZjYyDt0DsypYoAot
+
 ## O sinal
 
 Sintético, `fs = 8000 Hz`, 2 s, semente fixa (`default_rng(42)`): senoides de 440 Hz (amp. 1,0) e 880 Hz (amp. 0,5) + zumbido de 60 Hz (amp. 0,8) + ruído branco gaussiano (σ = 0,15). O código que o gera está na seção 0 do notebook, e os arquivos ficam em `data/`.
