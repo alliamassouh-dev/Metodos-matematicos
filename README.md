@@ -6,7 +6,7 @@ Sistematização da disciplina de Análise de Sinais: aproximamos uma onda quadr
 
 **R.A:** 22450300 
 
-**Abrir no Colab:** https://colab.research.google.com/drive/1B--4VwX_5f6NL-wLWstyi502upRMFZ_Q?usp=sharing **
+**Abrir no Colab:** https://colab.research.google.com/drive/1B--4VwX_5f6NL-wLWstyi502upRMFZ_Q?usp=sharing
 
 ## O sinal
 
@@ -72,14 +72,3 @@ jupyter notebook sistematizacao_fourier_laplace.ipynb
 
 **Comunicação** `(8%)`
   - Arquivo `roteiro_video.md`
-
-## Publicar no GitHub (passo a passo)
-
-```bash
-git init
-git add .
-git commit -m "Sistematização: Fourier e Laplace"
-git branch -M main
-git remote add origin https://github.com/<usuario>/<repo>.git
-git push -u origin main
-```
